@@ -5,9 +5,12 @@ Dictada por la Facultad de Ciencias Económicas y por la Facultad de Matemática
 Abril 2025 - Noviembre 2025
 
 # Autores
-Juan Martín Albornos
-Robertino Fogliatto
-Rocío Nazareth Oviedo
+Juan Martín Albornos;
+
+Robertino Fogliatto;
+
+Rocío Nazareth Oviedo;
+
 Emilia Zurita
 
 # Resumen del trabajo
