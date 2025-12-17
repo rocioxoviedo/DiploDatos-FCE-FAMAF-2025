@@ -5,11 +5,11 @@ Dictada por la Facultad de Ciencias Económicas y por la Facultad de Matemática
 Abril 2025 - Noviembre 2025
 
 # Autores
-Juan Martín Albornos;
+Juan Martín Albornos
 
-Robertino Fogliatto;
+Robertino Fogliatto
 
-Rocío Nazareth Oviedo;
+Rocío Nazareth Oviedo
 
 Emilia Zurita
 
